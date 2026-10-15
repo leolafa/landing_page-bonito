@@ -1,0 +1,8 @@
+# Arquivos gerados e dependências do app
+/bonito-ecoparque/node_modules/
+/bonito-ecoparque/dist/
+/bonito-ecoparque/dist-single/
+/bonito-ecoparque/dist-ssr/
+/bonito-ecoparque/.vite/
+/bonito-ecoparque/.cache/
+.DS_Store
